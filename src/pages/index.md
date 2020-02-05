@@ -3,7 +3,7 @@ templateKey: index-page
 title: Make something!
 image: /img/IMG_3119.JPG
 heading: Great coffee with a conscience
-subheading: Random projects and odd ends
+subheading: Random projects and the occasional odds and ends
 mainpitch:
   title: What is CrumpSpace?
   description: >-
