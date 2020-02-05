@@ -1,18 +1,17 @@
 ---
 templateKey: index-page
-title: Tech projects and odd ends
-image: /img/home-jumbotron.jpg
+title: Make something!
+image: /img/IMG_3119.JPG
 heading: Great coffee with a conscience
-subheading: >-
-  A collection of my day-to-day woodworking projects, electronic designs,
-  software, home improvements, and random design
+subheading: Random projects and odd ends
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: What is CrumpSpace?
+  description: >-
+    The name CrumpSpace started as a small in-joke but morphed into the overall
+    idea of having a virtual or physical place where I could build, tinker,
+    hack, and learn. I want to share my experiments with people—the successes
+    and the failures—to hopefully inspire and teach Makers anywhere in the
+    world.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
